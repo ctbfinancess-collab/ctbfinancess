@@ -390,7 +390,7 @@ class _PrivacyPolicybusinessWidgetState
                                                   5.0, 16.0, 5.0, 10.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              '3xiogv1d' /* The Amethpay App is owned by A... */,
+                                              '3xiogv1d' /* The CTB Financess App is owned by A... */,
                                             ),
                                             textAlign: TextAlign.justify,
                                             style: FlutterFlowTheme.of(context)
@@ -790,7 +790,7 @@ class _PrivacyPolicybusinessWidgetState
                                                   5.0, 16.0, 5.0, 10.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'lg4lqm6e' /* The Amethpay App is owned by A... */,
+                                              'lg4lqm6e' /* The CTB Financess App is owned by A... */,
                                             ),
                                             textAlign: TextAlign.justify,
                                             style: FlutterFlowTheme.of(context)

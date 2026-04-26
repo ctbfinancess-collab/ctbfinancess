@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Amethpay</string>
+	<string>CTB Financess</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -44,10 +44,10 @@
         <key>CFBundleTypeRole</key>
         <string>Editor</string>
         <key>CFBundleURLName</key>
-        <string>amethpay.com</string>
+        <string>ctbfinancess.app</string>
         <key>CFBundleURLSchemes</key>
         <array>
-        <string>Amethpay</string>
+        <string>CTBFinancess</string>
         </array>
         </dict>
     </array>

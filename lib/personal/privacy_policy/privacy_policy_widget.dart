@@ -395,7 +395,7 @@ class _PrivacyPolicyWidgetState extends State<PrivacyPolicyWidget> {
                                                   5.0, 16.0, 5.0, 10.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'ckph2jru' /* The Amethpay App is owned by A... */,
+                                              'ckph2jru' /* The CTB Financess App is owned by A... */,
                                             ),
                                             textAlign: TextAlign.start,
                                             style: FlutterFlowTheme.of(context)
@@ -802,7 +802,7 @@ class _PrivacyPolicyWidgetState extends State<PrivacyPolicyWidget> {
                                                   5.0, 16.0, 5.0, 10.0),
                                           child: Text(
                                             FFLocalizations.of(context).getText(
-                                              'p8ccmids' /* The Amethpay App is owned by A... */,
+                                              'p8ccmids' /* The CTB Financess App is owned by A... */,
                                             ),
                                             textAlign: TextAlign.justify,
                                             style: FlutterFlowTheme.of(context)

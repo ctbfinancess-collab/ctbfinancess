@@ -601,7 +601,7 @@ class _TermsandconditionsWidgetState extends State<TermsandconditionsWidget>
                                                                                     padding: EdgeInsetsDirectional.fromSTEB(5.0, 16.0, 5.0, 10.0),
                                                                                     child: Text(
                                                                                       FFLocalizations.of(context).getText(
-                                                                                        'qt7bnm53' /* The Amethpay App is owned by A... */,
+                                                                                        'qt7bnm53' /* The CTB Financess App is owned by A... */,
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).labelLarge.override(
@@ -1189,7 +1189,7 @@ class _TermsandconditionsWidgetState extends State<TermsandconditionsWidget>
                                                                                     padding: EdgeInsetsDirectional.fromSTEB(5.0, 16.0, 5.0, 10.0),
                                                                                     child: Text(
                                                                                       FFLocalizations.of(context).getText(
-                                                                                        'v6ravz22' /* The Amethpay App is owned by A... */,
+                                                                                        'v6ravz22' /* The CTB Financess App is owned by A... */,
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).labelLarge.override(
