@@ -1,43 +1,26 @@
 {
   "project_info": {
-    "project_number": "389572127725",
-    "project_id": "amethyst-i05act",
-    "storage_bucket": "amethyst-i05act.appspot.com"
+    "project_number": "311075525581",
+    "project_id": "ctb-financess",
+    "storage_bucket": "ctb-financess.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:389572127725:android:bce38507a124719709d5e4",
+        "mobilesdk_app_id": "1:311075525581:android:a56fb703af689f6cb96a84",
         "android_client_info": {
-          "package_name": "com.flutterflow.amethpay"
+          "package_name": "com.ctbfinancess.app"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "389572127725-l86mjt6mkvbl8u5hd31t25sinvf901rn.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD46MfrqYnDqoYBSNQtxUrRTT26CAA2qg4"
+          "current_key": "AIzaSyArJ-aDuP3Sfia1nN1lRbEuYba8RwOxrvw"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "389572127725-l86mjt6mkvbl8u5hd31t25sinvf901rn.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "389572127725-9ceac3gpg6b6n0bll142947itn32gjsb.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.flutterflow.finwallet"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
