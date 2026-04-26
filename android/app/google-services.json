@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "389572127725",
+    "project_id": "amethyst-i05act",
+    "storage_bucket": "amethyst-i05act.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389572127725:android:bce38507a124719709d5e4",
+        "android_client_info": {
+          "package_name": "com.flutterflow.amethpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389572127725-l86mjt6mkvbl8u5hd31t25sinvf901rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD46MfrqYnDqoYBSNQtxUrRTT26CAA2qg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389572127725-l86mjt6mkvbl8u5hd31t25sinvf901rn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "389572127725-9ceac3gpg6b6n0bll142947itn32gjsb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
